@@ -3,7 +3,7 @@ A terminal for quickly and easily navigating and searching Appian
 
 ## Installing
 1. Install the Tampermonkey extension for your browser. Found [here](https://tampermonkey.net/)
-2. Browse to the [userscript](https://github.com/planted-dev/the-a-term/raw/main/a-terminal.user.js)
+2. Browse to the [userscript](https://github.com/planted-dev/the-a-term/raw/main/the-a-term.user.js)
 3. When prompted by Tampermonkey click install
 4. Browse to your Appian environment, or CTRL+F5 to refresh any page you are currently on
 

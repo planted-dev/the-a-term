@@ -14,7 +14,7 @@
 // @exclude     http*://*/suite/designer/*
 // @version     1.2
 // @run-at      document-end
-// @updateURL   https://bitbucket.org/NathanPlantAU/the-a-term/raw/master/the-a-term.user.js
+// @updateURL   https://github.com/planted-dev/the-a-term/raw/main/the-a-term.user.js
 // @grant       none
 // ==/UserScript==
 (function () {
@@ -52,7 +52,7 @@
             at_commands = [
                 {
                     "name": "Show help",
-                    "url": "https://bitbucket.org/NathanPlantAU/the-a-term",
+                    "url": "https://github.com/planted-dev/the-a-term",
                     "command": "help"
                 },
                 {
